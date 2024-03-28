@@ -1,2 +1,2 @@
-## These are my initial Shell Scripts Projects, That I made while learning Shell Script
+## These are my few Shell-Script Projects, Which I made while learning Shell Script
 
